@@ -5,10 +5,19 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "payment": "^2.3.0",
-    "react": "^16.13.1",
+    "@react-pdf/renderer": "^2.0.19",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "payment": "^2.4.6",
+    "primeflex": "^3.0.1",
+    "primeicons": "^4.1.0",
+    "primereact": "^6.5.1",
+    "react": "^16.14.0",
     "react-credit-cards": "^0.8.2",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.1",
+    "react-transition-group": "^4.4.2",
+    "redux": "^4.1.1"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
